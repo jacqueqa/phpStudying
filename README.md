@@ -1,0 +1,2 @@
+# phpStudying
+PHP first steps.
