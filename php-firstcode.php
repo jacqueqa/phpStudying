@@ -18,3 +18,4 @@ if ($idade >= 18) {
 
 echo PHP_EOL;
 echo "Até mais";
+
